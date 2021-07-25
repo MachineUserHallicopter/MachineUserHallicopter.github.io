@@ -10,4 +10,4 @@ show_call_box: true
 
 # Now anyone can blog
 
-InternetBlogCo is the the world's simplest blogging platform. If you know how to send an email, you can blog too! Create a blog in under 10s by sending an email!
+InternetBlogCo is the the world's simplest blogging platform. If you know how to send an email, you can blog too! Create a blog in under 10 seconds by sending an email!
