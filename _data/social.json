@@ -1,12 +1,17 @@
 [
   {
     "name": "Github",
-    "link": "https://github.com/zerostaticthemes/jekyll-serif-theme",
+    "link": "https://github.com/hallicopter",
     "image": "images/social/github.svg"
   },
   {
+    "name": "Creator's blog",
+    "link": "https://advait.live",
+    "image": "ihttps://github.com/Hallicopter/hallicopter.github.io/blob/master/favicon.ico"
+  },
+  {
     "name": "Twitter",
-    "link": "https://twitter.com/zerostaticio",
+    "link": "https://twitter.com/_hallicopter",
     "image": "images/social/twitter.svg"
   }
 ]
