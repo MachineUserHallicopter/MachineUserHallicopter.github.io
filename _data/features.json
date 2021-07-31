@@ -1,17 +1,22 @@
 [
   {
-    "title": "Register",
-    "description": "Send an email to register@internetblog.co with the title of your website as the subject (one word, no caps), and get started immediately.",
+    "title": "Register in under 10 seconds!",
+    "description": 'Send an email to register@internetblog.co with the title of your website as the subject (one word, no caps), and get started immediately. If you use gmail, get started immediately by clicking <a href="https://mail.google.com/mail/?view=cm&fs=1&to=register@internetblog.co&su="Enter your blog title here, remember one word, no caps!"">here</a>"',
     "image": "images/features/noun_branding_1885335.svg"
   },
   {
-    "title": "View Blog",
+    "title": "View Blog on your personal webpage!",
     "description": "View your website at internetblog.co/{name of your blog}",
     "image": "images/features/noun_The Process_1885341.svg"
   },
   {
-    "title": "Post blogs",
+    "title": "Post blogs seamelessly!",
     "description": "To post, send an email to publish@internetblog.co with the title of the post as the subject, and the contents as the body.",
     "image": "images/features/noun_3d modeling_1885342.svg"
+  },
+  {
+    "title": "Delete posts with ease.",
+    "description": "Sometimes your posts don't age well. Sometimes you have typo. Delete a post by sending an email to delete@internetblog.co with your post url in the tile!",
+    "image": "images/features/noun_branding_1885335.svg"
   }
 ]
